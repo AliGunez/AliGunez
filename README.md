@@ -3,7 +3,8 @@ About Me
 
 My name is Ali
 
-I am a software engineering student with a passion for technology and programming. I am skilled in Python, SQL, object-oriented programming, systems analysis, and design. I have experience in creating ecommerce websites, 3D asset design and development, CAD modelling, and 3D printing.
+I am a software engineering student with a passion for technology and programming. I am skilled in Python, SQL, object-oriented programming, systems analysis, and design.
+
 My Skills
 
     Python
