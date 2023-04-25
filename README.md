@@ -1,16 +1,31 @@
-### Hi there 👋
+Welcome to my GitHub page!
+About Me
 
-<!--
-**AliGunez/AliGunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ali
 
-Here are some ideas to get you started:
+I am a software engineering student with a passion for technology and programming. I am skilled in Python, SQL, object-oriented programming, systems analysis, and design. I have experience in creating ecommerce websites, 3D asset design and development, CAD modelling, and 3D printing.
+My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Python
+    SQL
+    Object-oriented programming
+    Systems analysis
+    Systems design
+    3D asset creation
+
+My Projects
+
+Here are some of the recent projects I have worked on or am currently working on:
+
+    Task management application
+    Splitting bill calculator
+    File to USB copy and track application
+
+Education
+
+    Software Engineering student at HyperionDev, currently enrolled
+    BA (Hons) in Games Art and Design from Norwich University of the Arts, 2015-2019
+
+Contact Me
+
+If you have any questions or inquiries, feel free to contact me at a.gunes.office@gmail.com. I am always open to new opportunities and collaborations.
