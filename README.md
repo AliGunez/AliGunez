@@ -18,8 +18,8 @@ Here are some of the recent projects I have worked on or am currently working on
 
 Education
 
-    Software Engineering student at HyperionDev, currently enrolled
-    BA (Hons) in Games Art and Design from Norwich University of the Arts, 2015-2019
+    Software Engineering at HyperionDev
+    BA (Hons) in Games Art and Design from Norwich University of the Arts
 
 Contact Me
 
