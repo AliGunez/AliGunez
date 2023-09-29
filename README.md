@@ -4,7 +4,7 @@ About Me
 
 My name is Ali
 
-I am a motivated software developer with a passion for problem-solving. I am constantly seeking opportunities to learn and grow, striving to be great in my field. With a solid foundation in software development, I bring a range of technical skills and a determination to deliver exceptional results. I approach challenges with a problem-solving mindset, both in coding and in life. I believe that continuous improvement and embracing new technologies are essential to becoming a great developer.
+I am a motivated software developer with a passion for problem-solving.
 
 My Projects
 
